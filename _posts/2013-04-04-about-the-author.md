@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
+title: "About Pakistan"
+author: "Rimsha Iqbal"
 categories: journal
-tags: [documentation,sample]
+tags: [Pakistan, Travel, Tourism]
 image: cutting.jpg
 ---
 
