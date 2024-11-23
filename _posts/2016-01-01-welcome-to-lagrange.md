@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "The Popular Sports of Pakistan"
+author: "Rimsha Iqbal"
 categories: journal
-tags: [documentation,sample]
+tags: [sports, Pakistan, cricket, football, hockey, polo, traditions]
 image: mountains.jpg
 ---
 

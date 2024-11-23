@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Text Formatting Examples"
-author: "Paul Le"
+title: "Exploring the Majestic Mountains of Pakistan"
+author: "Rimsha Iqbal"
 categories: journal
-tags: [documentation,sample]
+tags: [mountains, travel, Pakistan, adventure]
 image: cards.jpg
 ---
 # Exploring the Majestic Mountains of Pakistan

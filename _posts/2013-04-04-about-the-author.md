@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About Pakistan"
+title: "Beauty Of Pakistan"
 author: "Rimsha Iqbal"
 categories: journal
 tags: [Pakistan, Travel, Tourism]

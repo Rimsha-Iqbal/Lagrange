@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
+title: "What to visit in Pakistan"
+author: "Rimsha Iqbal"
 categories: journal
-tags: [documentation,sample]
+tags: [visit,Pakistan,culture,]
 image: spools.jpg
 ---
 

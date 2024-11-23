@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "The Rich Tapestry of Pakistani Music"
+author: "Rimsha Iqbal"
 categories: journal
-tags: [documentation,sample]
+tags: [music, Pakistan, culture, classical, folk]
 image: forest.jpg
 ---
 
