@@ -5,6 +5,7 @@ permalink: /about
 ---
 
 # About Pakistan  
+
 ![flag](../assets/img/flag.png)  
 
 Pakistan is a country located in South Asia, bordered by India to the east, Afghanistan and Iran to the west, and China to the north. It has a coastline along the Arabian Sea to the south. With a population of over 230 million people, Pakistan is the world's fifth-most populous country. Its capital is Islamabad, while the largest city is Karachi, and Lahore is considered the cultural capital of the country.
@@ -44,7 +45,7 @@ Pakistan is a culturally rich and diverse country, with various ethnic groups an
 
 ### Popular Aspects of Pakistani Culture:
 - **Food**:  
-- 
+  
  ![food](../assets/img/food.png)  
 
 Pakistan is famous for its flavorful cuisine, including dishes like **Biryani**, **Nihari**, **Chapli Kebab**, and **Saag**. The street food in cities like Lahore and Karachi is also a major part of the food culture.
