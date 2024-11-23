@@ -11,7 +11,10 @@ image: cutting.jpg
 
 Pakistan is a country blessed with stunning landscapes, from snow-capped mountains to serene lakes, lush green valleys to vast deserts. Whether you're a nature enthusiast, a history lover, or someone who enjoys vibrant city life, Pakistan has something special to offer. Here are some of the most beautiful and famous places you should visit when in Pakistan.
 
-## 1. **Hunza Valley**
+## 1. **Hunza Valley**  
+
+![hunza](../assets/img/truck-hunza.jpg)  
+
 Located in the northern region of Pakistan, **Hunza Valley** is a breathtakingly beautiful destination. Surrounded by majestic peaks like **Rakaposhi** and **Ultar Sar**, Hunza is known for its charming villages, colorful orchards, and picturesque landscapes. **Karimabad**, the main town in the valley, offers stunning views of the **Baltit Fort** and **Altit Fort**.
 
 ### Things to Do in Hunza:
@@ -19,7 +22,10 @@ Located in the northern region of Pakistan, **Hunza Valley** is a breathtakingly
 - Visit **Attabad Lake**, formed after a massive landslide in 2010, known for its turquoise waters.
 - Explore **Eagle's Nest**, a popular viewpoint offering panoramic views of multiple mountain ranges.
 
-## 2. **Swat Valley**
+## 2. **Swat Valley**  
+
+![swat](../assets/img/Swat-Valley.jpg)  
+
 Often referred to as the "Switzerland of Pakistan," **Swat Valley** is renowned for its lush green meadows, rivers, and towering mountains. The valley is a perfect destination for nature lovers and adventure enthusiasts alike.
 
 ### Must-See Places in Swat:
@@ -27,7 +33,10 @@ Often referred to as the "Switzerland of Pakistan," **Swat Valley** is renowned 
 - **Fizagat Park**, a scenic park near Mingora, great for picnics and walks along the river.
 - **Kalam Valley**, a beautiful area known for its dense forests and crystal-clear rivers.
 
-## 3. **Skardu**
+## 3. **Skardu**  
+
+![skardu](../assets/img/skardu.jpg)
+
 Nestled in the Gilgit-Baltistan region, **Skardu** is known for its dramatic landscapes, with towering peaks, beautiful lakes, and unique cultural heritage. The area is a gateway for trekkers heading to the **Karakoram Range** and **K2**.
 
 ### Famous Places in Skardu:
@@ -35,7 +44,10 @@ Nestled in the Gilgit-Baltistan region, **Skardu** is known for its dramatic lan
 - **Satpara Lake**, a crystal-clear lake surrounded by mountains, is a serene spot for boating and photography.
 - **Sheosar Lake**, located in the **Deosai National Park**, offers stunning views of snow-capped peaks.
 
-## 4. **Karimabad**
+## 4. **Karimabad**  
+
+![Karimabad](../assets/img/karimabad.jpg)
+
 The main town in Hunza Valley, **Karimabad** is rich in history and natural beauty. It is home to ancient forts, picturesque landscapes, and a tranquil atmosphere.
 
 ### Key Attractions in Karimabad:
@@ -43,7 +55,10 @@ The main town in Hunza Valley, **Karimabad** is rich in history and natural beau
 - **Altit Fort**, another historic fort, which is even older than Baltit, and provides a glimpse into the region's rich history.
 - **Husseini Suspension Bridge**, one of the most dangerous yet thrilling bridges in the world, connecting remote villages of Hunza.
 
-## 5. **Lahore**
+## 5. **Lahore**  
+
+![lahore](../assets/img/Lahore.jpg)
+
 Known as the cultural capital of Pakistan, **Lahore** is filled with stunning Mughal-era monuments, bustling markets, and a rich history. The city offers a perfect blend of the old and the new.
 
 ### Top Places to Visit in Lahore:
@@ -52,7 +67,10 @@ Known as the cultural capital of Pakistan, **Lahore** is filled with stunning Mu
 - **Shalimar Gardens**, a Mughal-era garden offering tranquility and beauty in the heart of the city.
 - **Walled City of Lahore**, a labyrinth of narrow streets, markets, and historical buildings showcasing Lahore’s vibrant past.
 
-## 6. **Islamabad**
+## 6. **Islamabad**  
+
+![islamabad](../assets/img/islamabad.jpg)
+
 The capital city of Pakistan, **Islamabad**, is known for its modern infrastructure, beautiful parks, and scenic views. The city is surrounded by hills, providing a refreshing contrast to the hustle and bustle of other cities in Pakistan.
 
 ### Attractions in Islamabad:
@@ -60,7 +78,10 @@ The capital city of Pakistan, **Islamabad**, is known for its modern infrastruct
 - **Daman-e-Koh**, a viewpoint offering panoramic views of the entire city of Islamabad.
 - **Pakistan Monument**, a symbol of national unity, representing the four provinces of Pakistan.
 
-## 7. **Karachi**
+## 7. **Karachi**  
+
+![karachi](../assets/img/karachi.jpg)
+
 The bustling metropolis of **Karachi** is Pakistan’s economic hub and largest city. With a long coastline, vibrant markets, and historical landmarks, Karachi is an exciting city to explore.
 
 ### Famous Spots in Karachi:
@@ -68,14 +89,20 @@ The bustling metropolis of **Karachi** is Pakistan’s economic hub and largest 
 - **Mohatta Palace**, a beautiful historical palace that is now a museum.
 - **Karachi Marina Club**, a luxurious spot for enjoying views of the Arabian Sea and the city skyline.
 
-## 8. **Murree**
+## 8. **Murree**  
+
+![muree](../assets/img/muree.jpg)
+
 **Murree** is a hill station located in the **Punjab** province, known for its cool weather, pine forests, and scenic views. It is a popular weekend getaway for locals and tourists alike.
 
 ### Things to Do in Murree:
 - **Mall Road**, a busy street lined with shops, restaurants, and scenic spots perfect for a relaxing stroll.
 - **Patriata**, also known as **New Murree**, offers chair lifts and cable cars that take visitors up to scenic spots with panoramic views.
 
-## 9. **Naltar Valley**
+## 9. **Naltar Valley**  
+
+![naltar](../assets/img/naltar-valley.jpeg)
+
 **Naltar Valley**, located in the Gilgit-Baltistan region, is a popular tourist destination for its unique beauty. The valley is known for its lush forests, crystal-clear lakes, and snow-covered mountains.
 
 ### Best Attractions in Naltar:

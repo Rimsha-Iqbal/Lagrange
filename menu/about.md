@@ -45,17 +45,22 @@ Pakistan is a culturally rich and diverse country, with various ethnic groups an
 
 ### Popular Aspects of Pakistani Culture:
 - **Food**:  
-  
- ![food](../assets/img/food.png)  
+ ![food](../assets/img/food.png)   
 
-Pakistan is famous for its flavorful cuisine, including dishes like **Biryani**, **Nihari**, **Chapli Kebab**, and **Saag**. The street food in cities like Lahore and Karachi is also a major part of the food culture.
-- **Music**: Traditional music, as well as modern pop and classical music, plays a significant role in Pakistani culture. The country has produced notable musicians, including **Nusrat Fateh Ali Khan** and **Abida Parveen**.  
+ Pakistan is famous for its flavorful cuisine, including dishes like **Biryani**, **Nihari**, **Chapli Kebab**, and **Saag**. The street food in cities like Lahore and Karachi is also a major part of the food culture.  
+
+- **Music**:   
+  
+  ![music](../assets/img/music.jpg)  
+  
+  Traditional music, as well as modern pop and classical music, plays a significant role in Pakistani culture. The country has produced notable musicians, including **Nusrat Fateh Ali Khan** and **Abida Parveen**.  
   
 - **Art and Literature**:   
 
 ![poetry](../assets/img/poetry.jpg)  
 
 Pakistan has a rich literary heritage, with poets like **Allama Iqbal** and **Faiz Ahmed Faiz** being iconic figures.   
+
 ![art](../assets/img/trucks.jpg)   
 
 The country is also known for its vibrant art scene, including **miniature paintings** and **truck art**.
