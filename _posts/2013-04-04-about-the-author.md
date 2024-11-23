@@ -23,7 +23,6 @@ Located in the northern region of Pakistan, **Hunza Valley** is a breathtakingly
 
 ## 2. **Swat Valley**  
 
-![swat](../assets/img/Swat-Valley.jpg)  
 
 Often referred to as the "Switzerland of Pakistan," **Swat Valley** is renowned for its lush green meadows, rivers, and towering mountains. The valley is a perfect destination for nature lovers and adventure enthusiasts alike.
 
@@ -34,7 +33,6 @@ Often referred to as the "Switzerland of Pakistan," **Swat Valley** is renowned 
 
 ## 3. **Skardu**  
 
-![skardu](../assets/img/skardu.jpg)
 
 Nestled in the Gilgit-Baltistan region, **Skardu** is known for its dramatic landscapes, with towering peaks, beautiful lakes, and unique cultural heritage. The area is a gateway for trekkers heading to the **Karakoram Range** and **K2**.
 
@@ -45,7 +43,7 @@ Nestled in the Gilgit-Baltistan region, **Skardu** is known for its dramatic lan
 
 ## 4. **Karimabad**  
 
-![Karimabad](../assets/img/karimabad.jpg)
+
 
 The main town in Hunza Valley, **Karimabad** is rich in history and natural beauty. It is home to ancient forts, picturesque landscapes, and a tranquil atmosphere.
 
@@ -56,7 +54,6 @@ The main town in Hunza Valley, **Karimabad** is rich in history and natural beau
 
 ## 5. **Lahore**  
 
-![lahore](../assets/img/Lahore.jpg)
 
 Known as the cultural capital of Pakistan, **Lahore** is filled with stunning Mughal-era monuments, bustling markets, and a rich history. The city offers a perfect blend of the old and the new.
 
@@ -68,7 +65,6 @@ Known as the cultural capital of Pakistan, **Lahore** is filled with stunning Mu
 
 ## 6. **Islamabad**  
 
-![islamabad](../assets/img/islamabad.jpg)
 
 The capital city of Pakistan, **Islamabad**, is known for its modern infrastructure, beautiful parks, and scenic views. The city is surrounded by hills, providing a refreshing contrast to the hustle and bustle of other cities in Pakistan.
 
@@ -79,7 +75,6 @@ The capital city of Pakistan, **Islamabad**, is known for its modern infrastruct
 
 ## 7. **Karachi**  
 
-![karachi](../assets/img/karachi.jpg)
 
 The bustling metropolis of **Karachi** is Pakistan’s economic hub and largest city. With a long coastline, vibrant markets, and historical landmarks, Karachi is an exciting city to explore.
 
@@ -90,7 +85,6 @@ The bustling metropolis of **Karachi** is Pakistan’s economic hub and largest 
 
 ## 8. **Murree**  
 
-![muree](../assets/img/muree.jpg)
 
 **Murree** is a hill station located in the **Punjab** province, known for its cool weather, pine forests, and scenic views. It is a popular weekend getaway for locals and tourists alike.
 
@@ -100,7 +94,6 @@ The bustling metropolis of **Karachi** is Pakistan’s economic hub and largest 
 
 ## 9. **Naltar Valley**  
 
-![naltar](../assets/img/naltar-valley.jpeg)
 
 **Naltar Valley**, located in the Gilgit-Baltistan region, is a popular tourist destination for its unique beauty. The valley is known for its lush forests, crystal-clear lakes, and snow-covered mountains.
 
