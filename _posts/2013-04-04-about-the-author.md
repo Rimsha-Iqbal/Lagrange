@@ -4,7 +4,7 @@ title: "Beauty Of Pakistan"
 author: "Rimsha Iqbal"
 categories: journal
 tags: [Pakistan, Travel, Tourism]
-image: cutting.jpg
+image: truck_hunza.jpg
 ---
 
 # Beautiful and Famous Places in Pakistan
@@ -12,8 +12,7 @@ image: cutting.jpg
 Pakistan is a country blessed with stunning landscapes, from snow-capped mountains to serene lakes, lush green valleys to vast deserts. Whether you're a nature enthusiast, a history lover, or someone who enjoys vibrant city life, Pakistan has something special to offer. Here are some of the most beautiful and famous places you should visit when in Pakistan.
 
 ## 1. **Hunza Valley**  
-![alt text](../assets/img/truck-hunza.jpg)
-![hunza](../assets/img/truck-hunza.jpg)  
+
 
 Located in the northern region of Pakistan, **Hunza Valley** is a breathtakingly beautiful destination. Surrounded by majestic peaks like **Rakaposhi** and **Ultar Sar**, Hunza is known for its charming villages, colorful orchards, and picturesque landscapes. **Karimabad**, the main town in the valley, offers stunning views of the **Baltit Fort** and **Altit Fort**.
 
