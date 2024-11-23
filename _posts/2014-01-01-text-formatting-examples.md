@@ -4,7 +4,7 @@ title: "Exploring the Majestic Mountains of Pakistan"
 author: "Rimsha Iqbal"
 categories: journal
 tags: [mountains, travel, Pakistan, adventure]
-image: cards.jpg
+image: Rakaposhi-Base-Camp-Diran.jpeg
 ---
 # Exploring the Majestic Mountains of Pakistan
 

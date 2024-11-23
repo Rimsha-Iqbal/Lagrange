@@ -4,7 +4,7 @@ title: "The Popular Sports of Pakistan"
 author: "Rimsha Iqbal"
 categories: journal
 tags: [sports, Pakistan, cricket, football, hockey, polo, traditions]
-image: mountains.jpg
+image: babar.jpg
 ---
 
 # The Popular Sports of Pakistan

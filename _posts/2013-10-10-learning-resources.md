@@ -4,7 +4,7 @@ title: "Pakistani Cuisine"
 author: "Rimsha Iqbal"
 categories: journal
 tags: [visit,Pakistan,culture,]
-image: spools.jpg
+image: food.png
 ---
 
 # **Pakistani Cuisine**  
