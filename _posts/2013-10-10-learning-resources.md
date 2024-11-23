@@ -9,7 +9,7 @@ image: spools.jpg
 
 # **Pakistani Cuisine**  
 
-![food](../assets/img/food1.jpg)
+![food]([../assets/img/food1.jpg](https://i.ytimg.com/vi/9XX2U8chN4E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDHlGyZb20DFD5S4jcu5CitQ6wl0g))
 
 Pakistani cuisine is a blend of rich and diverse flavors, influenced by regional traditions and neighboring countries such as India, Afghanistan, and Iran. It is known for its use of spices, herbs, and bold flavors. Here’s an overview of its unique culinary delights.
 
