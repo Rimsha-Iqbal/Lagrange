@@ -4,7 +4,7 @@ title: "The Rich Tapestry of Pakistani Music"
 author: "Rimsha Iqbal"
 categories: journal
 tags: [music, Pakistan, culture, classical, folk]
-image: folk_music.jpg
+image: nfak.jpg
 ---
 
 # The Rich Tapestry of Pakistani Music
